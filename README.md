@@ -15,5 +15,4 @@ Just download the .py file and run it.
 
 If you need to test it, download software_dev as well, as it contains the test files.
 
-
-Note -  My solution needs improvement to yield better results. Highly appreciated if can be guided.
+I tried making assignment with atmost accuracy but help me in improving it if i failed in it.
